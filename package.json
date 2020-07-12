@@ -31,7 +31,8 @@
     "aws-sdk": "^2.713.0",
     "error-to-json": "^2.0.0",
     "lodash.compact": "^3.0.1",
-    "lodash.isempty": "^4.4.0"
+    "lodash.isempty": "^4.4.0",
+    "rxjs": "^6.6.0"
   },
   "peerDependencies": {
     "winston": "2.x"
