@@ -24,10 +24,14 @@
   "devDependencies": {
     "async": "^3.2.0",
     "jest": "^26.1.0",
+    "jest-theories": "^1.2.0",
     "winston": "^2.4.5"
   },
   "dependencies": {
-    "aws-sdk": "^2.713.0"
+    "aws-sdk": "^2.713.0",
+    "error-to-json": "^2.0.0",
+    "lodash.compact": "^3.0.1",
+    "lodash.isempty": "^4.4.0"
   },
   "peerDependencies": {
     "winston": "2.x"
