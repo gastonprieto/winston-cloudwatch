@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/gastonprieto/winston-cloudwatch#readme",
   "devDependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "jest": "^26.1.0",
     "jest-theories": "^1.2.0",
     "winston": "^2.4.5"
